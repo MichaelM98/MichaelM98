@@ -1,16 +1,19 @@
-## Hi there 👋
+# Michael Muniz - Aspiring IT Professional
 
-<!--
-**MichaelM98/MichaelM98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I’m Michael, an aspiring IT professional with hands-on experience in help desk operations, ticket management, and system configuration. My focus is on building practical skills for real-world IT environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### osTicket: Help Desk System
+- [osTicket: Prerequisites and Installation]
+- [osTicket: Ticket Lifecycle Examples]
+
+### Microsoft Azure: Virtual Machines & Networking
+- Deployed and configured virtual machines in a cloud environment.
+- Set up and tested Network Security Groups for secure access control.
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/michaelmuniz/)

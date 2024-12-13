@@ -6,11 +6,11 @@ I’m Michael, an aspiring IT professional with hands-on experience in help desk
 
 ## 🚀 Projects
 
- - osTicket: Help Desk System
+### - osTicket: Help Desk System
 - [osTicket: Prerequisites and Installation]
 - [osTicket: Ticket Lifecycle Examples]
 
- - Microsoft Azure: Virtual Machines & Networking
+### - Microsoft Azure: Virtual Machines & Networking
 - Deployed and configured virtual machines in a cloud environment.
 - Set up and tested Network Security Groups for secure access control.
 

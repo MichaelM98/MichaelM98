@@ -9,8 +9,8 @@ Hi, I’m Michael! I’m passionate about building practical IT skills and gaini
 ## 🚀 Projects
 
 ### osTicket: Help Desk System
-- **[Prerequisites and Installation](#)**
-- **[Ticket Lifecycle Examples](#)**
+- **[Prerequisites and Installation](https://github.com/MichaelM98/osticket-prereqa)**
+- **[Ticket Workflow Demonstration](https://github.com/MichaelM98/ticket-demo)**
 
 ### Microsoft Azure: Virtual Machines & Networking
 - Deployed and configured virtual machines in a cloud environment.

@@ -2,18 +2,22 @@
 
 ## About Me
 
-I’m Michael, an aspiring IT professional with hands-on experience in help desk operations, ticket management, and system configuration. My focus is on building practical skills for real-world IT environments.
+Hi, I’m Michael! I’m passionate about building practical IT skills and gaining real-world experience in help desk operations, ticket management, and system configuration. My goal is to excel in IT environments and provide efficient technical solutions.
+
+
 
 ## 🚀 Projects
 
-### - osTicket: Help Desk System
-- [osTicket: Prerequisites and Installation]
-- [osTicket: Ticket Lifecycle Examples]
+### osTicket: Help Desk System
+- **[Prerequisites and Installation](#)**
+- **[Ticket Lifecycle Examples](#)**
 
-### - Microsoft Azure: Virtual Machines & Networking
+### Microsoft Azure: Virtual Machines & Networking
 - Deployed and configured virtual machines in a cloud environment.
-- Set up and tested Network Security Groups for secure access control.
+- Set up and tested Network Security Groups (NSGs) for secure access control.
 
-## Connect with me
+---
+
+## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/michaelmuniz/)

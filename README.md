@@ -20,7 +20,7 @@ Hi, I’m **Michael**! I’m passionate about building practical **IT skills** a
 ---
 
 ## 🛠 **Skills**
-- **Operating Systems**: Windows 10, Windows Server  
+- **Operating Systems**: Experience with Windows environments; adaptable to other operating systems   
 - **Cloud Platforms**: Microsoft Azure  
 - **Help Desk Support**: Ticketing systems, troubleshooting, and user support  
 - **Networking**: Basic DNS, IP configuration, and network connectivity  
@@ -31,7 +31,6 @@ Hi, I’m **Michael**! I’m passionate about building practical **IT skills** a
 ## 🎓 **Certifications & Learning**
 - **Course Careers - IT Support Fundamentals** *(Complete)*  
 - **CompTIA A+** *(Planned)*  
-- **Microsoft Azure Fundamentals (AZ-900)** *(Planned)*
 
 ---
 

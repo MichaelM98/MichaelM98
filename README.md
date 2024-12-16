@@ -13,6 +13,10 @@ Hi, I’m Michael! I’m passionate about building practical IT skills and gaini
 - **[Ticket Workflow Demonstration](https://github.com/MichaelM98/ticket-demo)**
 
 
+## Microsoft Azure: Virtual Machines & Networking
+- **[Deployed and configured virtual machines in a cloud environment](https://github.com/MichaelM98/active-directory-lab)**
+- Set up and tested Network Security Groups (NSGs) for secure access control
+
 
 ---
 
